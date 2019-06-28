@@ -1,4 +1,4 @@
-class dog
+class Dog
   def initialize(name,bread)
     @name = name
     @bread = name
